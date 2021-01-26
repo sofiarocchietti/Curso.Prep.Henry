@@ -1,0 +1,7 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Objetos: los objetos son una coleccion de propiedades a las cuales podemos acceder a traves de keyvalue o clave (identificador): valor (el valor que queremos guardar en la clave, puede ser cualquier tipo de dato).
+Propiedades: las propiedades son una asociación entre una clave y un valor.
+Métodos: son las funciones que ya conocemos pero almacenadas dentro de los objetos.
+Bucle for…in: Similar a un bucle for pero se diferencian en que los objetos al no tener indices numericos, necesitan una sintaxis diferente para que el bucle recorra todas las claves del objeto en si.
+Notación de puntos vs notación de corchetes: La principal diferencia entre ellas es que cuando usamos corchetes podemos acceder más profundamente a la informacion que contiene la propiedad en cuestion. 
