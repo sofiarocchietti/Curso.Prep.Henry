@@ -1,0 +1,30 @@
+html {
+    background-color: rgb(255, 255, 134);
+}
+
+
+h4 {
+    color: rgb(71, 71, 71);
+}
+
+h2 {
+    color: rgb(194, 194, 3);
+    -webkit-text-stroke: 0,95px black;
+    text-shadow: 1px 2px #999;
+}
+
+h1 {
+    margin: 100px;
+    padding-left: 60px;
+    padding-top: 5px;
+}
+
+p {
+    height: 150px;
+    width: 700px;
+}
+
+img {
+    float: left;  
+    clear: right;
+}
